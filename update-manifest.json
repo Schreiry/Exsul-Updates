@@ -1,0 +1,19 @@
+{
+    "app":  "Exsul",
+    "version":  "1.1.0",
+    "codename":  "Led Zeppelin",
+    "channel":  "stable",
+    "releaseDate":  "2026-07-09",
+    "minimumSupportedVersion":  "0.9.20",
+    "releasePageUrl":  "https://github.com/Schreiry/Exsul-Updates/releases/tag/v1.1.0",
+    "platforms":  {
+                      "windows-x64":  {
+                                          "fileName":  "Exsul_1.1.0_x64-setup.exe",
+                                          "sha256":  "8c06bec99737603ade1cd648d87202cb847f82faa9c9befa97e1986306cfe02f",
+                                          "downloadUrl":  "https://github.com/Schreiry/Exsul-Updates/releases/download/v1.1.0/Exsul_1.1.0_x64-setup.exe"
+                                      }
+                  },
+    "notes":  [
+
+              ]
+}
