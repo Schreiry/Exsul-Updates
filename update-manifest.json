@@ -1,67 +1,43 @@
 {
   "app": "Exsul",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "codename": "Blackwell",
   "channel": "stable",
-  "releaseDate": "2026-11-08",
+  "releaseDate": "2026-11-09",
   "minimumSupportedVersion": "0.9.20",
   "releasePageUrl": "https://agendumstudios.com/go/download",
   "platforms": {
     "windows-x64": {
-      "fileName": "Exsul_1.2.3_x64-setup.exe",
-      "sha256": "f4adc255ef46e715252314a27f916cba5372e7953b7e5511c729005fb6840b31",
-      "downloadUrl": "https://dl.agendumstudios.com/releases/stable/1.2.3/Exsul_1.2.3_x64-setup.exe"
+      "fileName": "Exsul_1.2.4_x64-setup.exe",
+      "sha256": "1c029eba0dad17688c00b52c0bbfc00d0431b6387099b30c67f5e420ff9bd316",
+      "downloadUrl": "https://dl.agendumstudios.com/releases/stable/1.2.4/Exsul_1.2.4_x64-setup.exe"
     },
     "android-arm64": {
-      "fileName": "Exsul_1.2.3_arm64.apk",
-      "sha256": "9e6f967ef57a18082092e21cd8ae9dd42a1af6be35a08b5f57cd589af6d02c0c",
-      "downloadUrl": "https://dl.agendumstudios.com/releases/stable/1.2.3/Exsul_1.2.3_arm64.apk"
+      "fileName": "Exsul_1.2.4_arm64.apk",
+      "sha256": "a0e52c6a4e6b9191fc849f1800a5c3c009c3b7aacc842758f00a86f6a9e78710",
+      "downloadUrl": "https://dl.agendumstudios.com/releases/stable/1.2.4/Exsul_1.2.4_arm64.apk"
     }
   },
   "notes": [
-    "Новый раздел «Аккаунт»: ваша карта Exsul, следующая оплата, устройства и обращения на одном экране",
-    "Программа сама следит за связью с нашим сервером и простыми словами говорит, что делать, если связи нет",
-    "Потеряли ключ? Пришлём личную ссылку на вашу почту",
-    "Видно, когда следующая оплата и сколько она стоит, и вся история платежей со счетами",
-    "Почту и язык наших писем теперь можно поменять прямо в программе",
-    "Переезд на новое устройство: копия данных одной кнопкой и три понятных шага",
-    "Видно, какие устройства подключены и все ли на связи, а место старого можно освободить",
-    "Добавьте своё фото и имя: они остаются только на этом устройстве",
-    "Профиль в настройках теперь в цвете вашего издания"
+    "Новое окно установки: красивое, простое, одна кнопка, и программа открывается сама",
+    "Установка говорит на вашем языке: русский, английский или грузинский",
+    "Если Exsul открыт, установка подождёт, пока вы его закроете, и ничего не потеряется"
   ],
   "notesByLocale": {
     "ru": [
-      "Новый раздел «Аккаунт»: ваша карта Exsul, следующая оплата, устройства и обращения на одном экране",
-      "Программа сама следит за связью с нашим сервером и простыми словами говорит, что делать, если связи нет",
-      "Потеряли ключ? Пришлём личную ссылку на вашу почту",
-      "Видно, когда следующая оплата и сколько она стоит, и вся история платежей со счетами",
-      "Почту и язык наших писем теперь можно поменять прямо в программе",
-      "Переезд на новое устройство: копия данных одной кнопкой и три понятных шага",
-      "Видно, какие устройства подключены и все ли на связи, а место старого можно освободить",
-      "Добавьте своё фото и имя: они остаются только на этом устройстве",
-      "Профиль в настройках теперь в цвете вашего издания"
+      "Новое окно установки: красивое, простое, одна кнопка, и программа открывается сама",
+      "Установка говорит на вашем языке: русский, английский или грузинский",
+      "Если Exsul открыт, установка подождёт, пока вы его закроете, и ничего не потеряется"
     ],
     "en": [
-      "A new Account section: your Exsul card, next payment, devices and support requests on one screen",
-      "The app keeps an eye on its connection to our server and tells you in plain words what to do if it drops",
-      "Lost your key? We’ll email you a personal link",
-      "See when your next payment is due and how much it is, plus your full payment history with invoices",
-      "Change your email and the language of our letters right in the app",
-      "Moving to a new device: back up your data in one click and follow three clear steps",
-      "See which devices are connected and whether they’re online, and free up an old device’s place",
-      "Add your own photo and name: they stay on this device only",
-      "Your profile in Settings now wears the colour of your edition"
+      "A new installer: simple and beautiful, one button, and the app opens by itself",
+      "Setup speaks your language: Russian, English or Georgian",
+      "If Exsul is open, setup waits until you close it, so nothing gets lost"
     ],
     "ka": [
-      "ახალი განყოფილება „ანგარიში“: თქვენი Exsul-ის ბარათი, შემდეგი გადახდა, მოწყობილობები და მიმართვები ერთ ეკრანზე",
-      "პროგრამა თავად ამოწმებს კავშირს ჩვენს სერვერთან და მარტივად გეტყვით, რა უნდა გააკეთოთ, თუ კავშირი გაწყდა",
-      "დაკარგეთ გასაღები? პირად ბმულს ელფოსტაზე გამოგიგზავნით",
-      "ჩანს, როდის არის შემდეგი გადახდა და რამდენი, ასევე გადახდების მთელი ისტორია ინვოისებით",
-      "ელფოსტა და ჩვენი წერილების ენა ახლა პირდაპირ პროგრამიდან იცვლება",
-      "ახალ მოწყობილობაზე გადასვლა: მონაცემების ასლი ერთი ღილაკით და სამი მარტივი ნაბიჯი",
-      "ჩანს, რომელი მოწყობილობებია დაკავშირებული და ყველა ხაზზეა თუ არა, ძველის ადგილის გათავისუფლებაც შეგიძლიათ",
-      "დაამატეთ თქვენი ფოტო და სახელი: ისინი მხოლოდ ამ მოწყობილობაზე რჩება",
-      "პარამეტრებში პროფილი ახლა თქვენი გამოცემის ფერშია"
+      "ახალი დაყენების ფანჯარა: მარტივი და ლამაზი, ერთი ღილაკი და პროგრამა თავად იხსნება",
+      "დაყენება თქვენს ენაზე საუბრობს: რუსულად, ინგლისურად ან ქართულად",
+      "თუ Exsul ღიაა, დაყენება დაელოდება მის დახურვას და არაფერი დაიკარგება"
     ]
   }
 }
